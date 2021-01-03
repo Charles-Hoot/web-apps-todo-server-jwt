@@ -8,7 +8,7 @@ This is just the server-side - no client-side GUI is included.
 ## Links
 
 - [Server Demo](https://todo-server-jwt.herokuapp.com/)
-- [Server Source](https://github.com/profcase/todo-server-jwt)
+- [Repo](https://github.com/charles-hoot/web-apps-todo-server-jwt)
 
 ## Requirements
 
